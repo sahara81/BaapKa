@@ -442,7 +442,7 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     quote = choice(MYSTIC_QUOTES)
 
     keyboard = InlineKeyboardMarkup([
-        [InlineKeyboardButton("Ａｃｃｅｓｓ  Ｇｒａｎｔｅｄ", url="https://t.me/yourGroupLink")]
+        [InlineKeyboardButton("Ａｃｃｅｓｓ  Ｇｒａｎｔｅｄ", url="https://t.me/thewarriorsreal")]
     ])
 
     text = (
