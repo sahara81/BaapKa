@@ -174,7 +174,7 @@ MYSTIC_QUOTES = [
 
 # ---------- "Searching..." detection for external request bot ----------
 SEARCH_TRIGGER_TEXT = "searching..."  # exact text from other bot
-OTHER_BOT_USERNAMES = ["RequestBotUsername"]  # <<== yaha apne request bot ka username daal (without @)
+OTHER_BOT_USERNAMES = ["hiddentechnologies_bot"]  # <<== yaha apne request bot ka username daal (without @)
 
 # ---------- LOG STORAGE ----------
 MAX_LOGS = 500
